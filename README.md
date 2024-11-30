@@ -7,10 +7,10 @@ Projekto metu pavyko išspręsti didelių bazių duomenų valdymo iššūkius ir
 
 Žemiau galite pamatyti porą iš PowerBI pagalba sukurtų vizualizacijų:
 <p align="center">
-<img src = "https://github.com/user-attachments/assets/ffb5276c-5f94-4f12-a364-9c5dc13ff0e6" width="1050" height="550">
+<img src = "https://github.com/user-attachments/assets/ffb5276c-5f94-4f12-a364-9c5dc13ff0e6" width="900" height="500">
 </p>
 <p align="center">
-<img src = "https://github.com/user-attachments/assets/5db44f41-4a4e-4c5e-8e9a-493639a795ed" width="800" height="450">
+<img src = "https://github.com/user-attachments/assets/5db44f41-4a4e-4c5e-8e9a-493639a795ed" width="700" height="450">
 </p>
 
 SQL kodas buvo panaudotas atsakyti klausimams, tokiems kaip:
