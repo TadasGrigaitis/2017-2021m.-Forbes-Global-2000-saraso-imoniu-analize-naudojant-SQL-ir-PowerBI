@@ -1,6 +1,6 @@
 # 2017-2021m. Forbes Global 2000 sąrašo įmonių analizė naudojant SQL ir PowerBI
 
-Šis projektas analizuoja Forbes Global 2000 duomenų rinkinį, apimantį 2017–2021 metus, naudojant SQL ir Power BI įrankius. „Forbes Global 2000“ – tai kasmetinis 2000 didžiausių pasaulio įmonių reitingas, sudarytas remiantis pardavimų, pelno, turto ir rinkos vertės rodikliais.
+Šis projektas analizuoja "Forbes Global 2000" duomenų rinkinį, apimantį 2017–2021 metus, naudojant MySQL Workbench ir Power BI įrankius. „Forbes Global 2000“ – tai kasmetinis 2000 didžiausių pasaulio įmonių reitingas, sudarytas remiantis pardavimų, pelno, turto ir rinkos vertės rodikliais.
 
 Projekto Tikslai
 Išnagrinėti pasaulinės verslo veiklos tendencijas.
