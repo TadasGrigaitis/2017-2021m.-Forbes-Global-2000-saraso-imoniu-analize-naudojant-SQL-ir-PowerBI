@@ -24,10 +24,12 @@ SQL kodas buvo panaudotas atsakyti klausimams, tokiems kaip:
 <p align="center">
 <img src = "https://github.com/user-attachments/assets/a1ca2f07-5fe8-4c61-99a0-d9daffd24ef9" width="250" height="200">
 </p>
+
 * Kurių įmonių reitingas nuo 2017 iki 2021m. pakilo labiausiai:
 <p align="center">
 <img src = "https://github.com/user-attachments/assets/5d44b00e-6128-449b-b202-1b50a1f9e22d" width="500" height="300">
 </p>
+
 * Kurių sąrašo šalių bendrovių rinkos vertės išaugo labiausiai:
 <p align="center">
 <img src = "https://github.com/user-attachments/assets/477139cf-17e2-450f-9c22-51a45e369cb9" width="500" height="300">
