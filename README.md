@@ -2,7 +2,7 @@
 
 Šis projektas analizuoja "Forbes Global 2000" duomenų rinkinį, apimantį 2017–2021 metus, naudojant MySQL Workbench ir Power BI įrankius. „Forbes Global 2000“ – tai kasmetinis 2000 didžiausių pasaulio įmonių reitingas, sudarytas remiantis pardavimų, pelno, turto ir rinkos vertės rodikliais.
 
-Projekto tikslai - panaudoti SQL kalbą duomenų bazės valymui ir analizei ir PowerBi šių duomenų vizualizacijoms. Duomenų Šaltinis: Kaggle platformoje paskelbtas duomenų rinkinys apie Global 2000 sąrašo įmones (žr. forbesfull.xlsx). Pilną aprašymą galite rasti dokumente "aprašymas".
+Projekto tikslai - panaudoti SQL kalbą duomenų bazės valymui ir analizei ir PowerBi šių duomenų vizualizacijoms. Duomenų Šaltinis: Kaggle platformoje paskelbtas duomenų rinkinys apie Global 2000 sąrašo įmones (žr. forbesfull.xlsx). Pilną aprašymą galite rasti dokumente "Forbes Global 2000 analizė".
 Projekto metu pavyko išspręsti didelių bazių duomenų valdymo iššūkius ir įgyti vertingų įžvalgų apie pasaulinę ekonomiką. Panaudojau jau įgytas PowerBI ir SQL žinias ir, žinoma, išmokau daug pamokų. Jeigu iš klaidų mes mokomes, šio projekto metu išmokau nemažai.
 
 Žemiau galite pamatyti porą iš PowerBI pagalba sukurtų vizualizacijų:
@@ -27,4 +27,4 @@ Kurių sąrašo šalių bendrovių rinkos vertės išaugo labiausiai:
 <p align="center">
 <img src = "https://github.com/user-attachments/assets/477139cf-17e2-450f-9c22-51a45e369cb9" width="500" height="300">
 </p>
-Daugiau vizualizacijų ir tolimesnę analizę galite rasti "forbes global 2000" dokumente.
+Daugiau vizualizacijų ir tolimesnę analizę galite rasti "Forbes Global 2000 analizė" dokumente.
